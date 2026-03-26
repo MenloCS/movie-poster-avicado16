@@ -68,18 +68,18 @@ What do you definitely NOT want? (This helps you evaluate AI outputs critically.
 Open Adobe Firefly. Generate images based on your creative brief, but remember: you're exploring possibilities, not looking for a final answer.
 
 **Attempt 1:**  
-- **My prompt:**  
+- **My prompt:**  create an movie poster. -- I used the stuff from before
 
-- **What worked:**  
-- **What didn't work:**  
+- **What worked:**  i liked the overall vibe and the colors were really pretty
+- **What didn't work:**  I'd like it to be more reallistic and the people to be older and the boys to look like they're running after the girl
 - **What I'll change for next attempt:**  
 
 **Attempt 2:**  
-- **My prompt:**  
+- **My prompt:**  create an movie poster. no text. make it realistic and the sun glinting down. I want the people to look like teenagers and the boys to chase after the girl. I don't want to see the details of their clothing. they should run down the hill -- added the stuff from before
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:**  more realistic
+- **What didn't work:**  they weren't running down the hill
+- **What I'll change for next attempt:**  add that part
 
 ---
 
