@@ -30,33 +30,33 @@ At each step, save and commit your work in GitHub Desktop.
 Before you open any AI tools, plan your vision. This is your anchor—return to it after every AI generation.
 
 **Your Movie Choice:**  
-- **Movie Title:**  
-- **Why I chose this movie:**  
+- **Movie Title:**  The Summer I Turned Pretty
+- **Why I chose this movie:**  I really liked the series 
 
 **Core Emotion:**  
 What ONE feeling should a viewer get from your poster? (Examples: wonder, fear, joy, excitement, mystery, tension, nostalgia)  
-- **Core emotion:**  
+- **Core emotion:**  calm
 
 **Essential Visual Element:**  
 What ONE image, object, or visual MUST appear on your poster?  
-- **Essential element:**  
-- **Why this element:**  
+- **Essential element:**  house on a hill
+- **Why this element:**  represents the house the girl stayed at
 
 **What NOT to Include:**  
 What do you definitely NOT want? (This helps you evaluate AI outputs critically.)  
-- **Avoid:**  
+- **Avoid:**  prominent dark colors
 
 **Color Palette:**  
-- **Dominant color(s):**  
-- **Accent color(s):**  
-- **Overall mood:** (warm/cool/muted/vibrant/dark/bright)  
+- **Dominant color(s):**  light blue, sea foam green (ocean + sky), white/cream, pink
+- **Accent color(s):**  pink, navy blue, green
+- **Overall mood:** (warm/cool/muted/vibrant/dark/bright) dreamy 
 
 **Composition:**  
 - [ ] Close-up (face/detail)  
 - [ ] Wide shot (landscape/setting)  
 - [ ] Medium shot (full figure)  
-- [ ] Object/symbol centered  
-- [ ] Character collage  
+- [ ] Object/symbol
+- [x] Character collage 1 girl and 2 boys running down the hill. only their figures are visible, and the girl is in front. 
 
 - **Focal point description:**  
 
