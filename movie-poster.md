@@ -89,16 +89,16 @@ Open Adobe Firefly. Generate images based on your creative brief, but remember: 
 Keep refining. Try at least two more meaningfully different directions.
 
 **Attempt 3:**  
-- **My prompt:**  
+- **My prompt:**  create an movie poster. make it say "the summer i turned pretty" in cursivey text. make it realistic and the sun glinting down. I want the people to look like teenagers and the boys to chase after the girl. I don't want to see the details of their clothing. they should run down the hill to the beach. -- added before
 
 - **What worked:**  
 - **What didn't work:**  
 - **What I'll change for next attempt:**  
 
 **Attempt 4:**  
-- **My prompt:**  
+- **My prompt:**  create an movie poster. make it say "the summer i turned pretty" in cursivey text. make it realistic and the sun glinting down. I want the people to look like teenagers and the boys to run behind the girl. I don't want to see the details of their clothing. they should run down the hill to the beach. the house should be on the left side, and in the middle ground. there should be a green hill running down to the beach. There should only be a small strip of beach. the girl should wear jean shorts and a white tank top. we should see the side profiles of the figures. they should run from left to right down the hill. they should not be evenly spaced and they should have different running poses. the boys should be to the left of the girl.
 
-- **What worked:**  
+- **What worked:**  It looked more realistic
 - **What didn't work:**  
 
 **Final AI Image Selected:** (Which attempt? Why?)  
